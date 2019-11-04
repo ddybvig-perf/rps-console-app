@@ -1,8 +1,7 @@
 # rps-console-app
 ## Rock-Paper-Scissors
 ### About
-This is a Maven project that I wrote in NetBeans. If you have an IDE that compiles JVM code on your machine you shouldn't have
-a problem running it.  Everything runs from the main method. 
+This is a Maven project that I wrote in NetBeans. Everything runs from the main method. 
 
 This was the first thing I programmed that I would call a "project." It was a great way to practice
 loops and boolean operators. You get to test your skills in RPS against a random integer generator!
