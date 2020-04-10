@@ -31,7 +31,8 @@ public class RockPaperScissors {
         int computerScore = 0;
         int ties = 0;
         //start of the game!
-        while (run = true) {//maybe change it to == on this line
+        while (run = true) {
+            //adding a comment here
             System.out.println("Welcome to Dale's Premium Java Console Rock Paper Scissors Game! "
                     + "You may play 1 to 10 rounds. How many rounds would you like to play?");
             int rounds = sc.nextInt();
